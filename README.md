@@ -73,10 +73,4 @@ Expected May 2027
 Uniglobe SS/College, Kamaladi, Kathmandu
 2023
 
----
 
-## Let's Connect
-
-Open to design collaborations, internships, and conversations about product and interface design.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/risan-shrestha-1a3755404/)
